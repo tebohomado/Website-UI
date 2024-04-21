@@ -1,0 +1,35 @@
+.header {
+
+
+  
+}
+.header {  
+    text-align:center;
+    color: yellow;
+    font-family:serif
+    }
+    #Main {
+        text-align: right;
+    }
+    .footer {
+        text-align: center;
+        background-color: black;
+        
+
+    }
+
+h2 {
+    color: blue;
+}
+.body{
+    width: 100%;
+    background:linear-gradient(to top, rgb(0,0,0,0.5)50%,rgb(0,0,0,0.5)50%), url(pexels-gustavo-fring-6817036.jpg);
+    background-position:center;
+    background-size: cover;
+    height: 109vh;
+color: aliceblue;
+
+}
+.btn{
+    text-decoration: none;
+}

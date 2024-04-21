@@ -1,0 +1,47 @@
+* {
+    padding: auto;
+    margin: 0%;
+    box-sizing: border-box;
+    }
+
+
+.body {
+background-image:linear-gradient(to top, rgb(0,0,0,0.5)50%,rgb(0,0,0,0.5)50%), url(pexels-arnie-watkins-1337313-3156482.jpg);
+background-position:center;
+background-size: cover;
+height: 109vh;
+}
+.body{
+    width:1500px ;
+    height: 75px;
+    margin:auto
+}
+.header {
+    text-align: center;
+        color: yellow;
+}
+.main {
+  text-align: right;
+}
+.btn{
+   text-align: right;
+   text-decoration: none;
+ 
+}
+.intro{
+    color:aliceblue
+
+}
+.intro{
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+}
+.content{
+    color:aliceblue;
+}
+h2{
+    color: blue;
+}

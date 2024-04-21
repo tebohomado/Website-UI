@@ -1,0 +1,44 @@
+* {
+    padding: auto;
+    margin: 0%;
+    box-sizing: border-box;
+    }
+    
+    .body {
+        color: aliceblue;
+        text-align: center;
+    background-image: url(pexels-antoni-shkraba-7144172.jpg);
+    background-size:50cm 
+    
+    }
+    #header {
+        
+            text-align:center;
+            color:yellow;
+            font-family:serif
+            
+        
+    
+    }
+    
+    #header {
+    
+        
+        margin:auto;
+        
+        
+    }
+    #Main {
+        text-align: right;
+    }
+    
+    h2{
+        color: blue;
+    }
+    .btn{
+    text-decoration: none;
+    
+    }
+    .Testimonials{
+        
+    }
